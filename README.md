@@ -1,2 +1,5 @@
-# quarkus-starter
-Quarkus starter project
+# Test
+`mvn test`
+
+# Run
+`mvn compile quarkus:dev`
